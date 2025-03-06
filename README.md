@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is N.Barack and I'm a Full-stack web developer, Software developer and web designer.</h2>
+<h2 align="left">Hi 👋! My name is N.Barack Okoth and I'm a - <br> Full-stack web developer,<br> Software developer,<br> web designer,<br> App Developer.</h2>
 
 ###
 
