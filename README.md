@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is N. Barrack Okoth and I'm a - <br><br>*** Full-stack web developer<br>*** Software developer<br>*** Web designer<br>*** App Developer.</h2>
+<h2 align="left">Hi 👋! Am N. Barrack Okoth and I'm a - <br><br>*** Full-stack web developer<br>*** Software developer<br>*** Web designer<br>*** App Developer.</h2>
 
 ###
 
