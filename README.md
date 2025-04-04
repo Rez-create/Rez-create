@@ -1,4 +1,14 @@
-<h2 align="left">Hi 👋! Am N. Barrack Okoth and I'm a - <br><br>*** Full-stack web developer<br>*** Software developer<br>*** Web designer<br>*** App Developer.</h2>
+<h2 align="left">Hi 👋! Am N. Barrack Okoth<br><br>
+
+- 👨‍💻 Full Stack Developer.
+- 🎨 Frontend: Strong in HTML5, CSS3, SASS, SCSS, JavaScript, Tailwind CSS, Material UI, Next.js and React.js.
+- 🚀 Backend: Experience with Python-Django and Node.js for building RESTful APIs.
+- 🔄 State Management: Knowledgeable in Redux for large-scale React applications.
+- 📱 UI/UX: Familiar with Figma and Adobe XD for design.
+- 📝 Version Control: Git/GitHub proficiency.
+- ☁️ Deployment: Experienced in deploying on Heroku, Vercel and Netlify.
+- 🔍 Problem-solving: Strong debugging skills.
+- 💬 Communication: Effective team collaboration.
 
 ###
 
