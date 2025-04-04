@@ -17,10 +17,6 @@
 
 ###
 
-<img align="right" height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGIwdDhjN3dma293YXZlNHBjbWdsdDF4aGx0NzJxcTl5ZXB3djN4cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S2IfEQqgWc0AH4r6Al/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -74,5 +70,8 @@
     <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=Rez-create&theme=tokyonight-duo&exclude_days=Sun" alt="GitHub Streak" />
     </a>
+  <a>
+    <img align="right" height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGIwdDhjN3dma293YXZlNHBjbWdsdDF4aGx0NzJxcTl5ZXB3djN4cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S2IfEQqgWc0AH4r6Al/giphy.gif"  />
+  </a>
 </div>
 
