@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Am N. Barrack Okoth<br><br>
+<h2>Hi 👋! Am N. Barrack Okoth</h2>
 
 - 👨‍💻 Full Stack Developer.
 - 🎨 Frontend: Strong in HTML5, CSS3, SASS, SCSS, JavaScript, Tailwind CSS, Material UI, Next.js and React.js.
