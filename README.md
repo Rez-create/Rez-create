@@ -74,8 +74,5 @@
     <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=Rez-create&theme=tokyonight-duo&exclude_days=Sun" alt="GitHub Streak" />
     </a>
-    <a href="https://github.com/Rez-create">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rez-create&theme=transparent" />
-    </a>
 </div>
 
