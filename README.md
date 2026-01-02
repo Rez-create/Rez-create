@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I’m N. Barrack Okoth 👋</h1>
-<h3 align="center">Full Stack Developer | Frontend-Focused | Mobile & API Specialist</h3>
+<h1 align="left">Hi, I’m N. Barrack Okoth 👋</h1>
+<h3 align="left">Full Stack Developer | Frontend-Focused | Mobile & API Specialist</h3>
 
-<p align="center">
+<p align="left">
   I build modern, scalable web and mobile applications with a strong focus on performance, usability, and clean architecture.
 </p>
 
@@ -17,7 +17,7 @@
 
 ## 🛠 Tech Stack
 
-<table align="center">
+<table align="left">
   <tr>
     <th align="center">Frontend</th>
     <th align="center">Backend</th>
@@ -35,7 +35,7 @@
       • Python<br/>
       • Node.js<br/>
       • Java<br/>
-      • C++, C#
+      • C, C++, C#
     </td>
     <td>
       • Flutter (Dart)<br/>
@@ -49,7 +49,7 @@
 
 ## 📊 GitHub Stats
 
-<table align="center">
+<table align="left">
   <tr>
     <td>
       <img src="https://github-readme-stats-fast.vercel.app/api?username=Rez-create&show_icons=true&theme=tokyonight" />
@@ -60,7 +60,7 @@
   </tr>
 </table>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Rez-create&theme=tokyonight" />
 </p>
 
@@ -91,7 +91,7 @@
 
 ## 🤝 Let’s Connect
 
-<p align="center">
+<p align="left">
   <a href="mailto:okothbarack90@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
