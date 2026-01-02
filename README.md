@@ -15,40 +15,6 @@
 
 ---
 
-## 🛠 Tech Stack
-
-<table align="left">
-  <tr>
-    <th align="center">Frontend</th>
-    <th align="center">Backend</th>
-    <th align="center">Mobile</th>
-  </tr>
-  <tr>
-    <td>
-      • HTML5, CSS3<br/>
-      • SASS / SCSS<br/>
-      • JavaScript (ES6+)<br/>
-      • React.js, Next.js<br/>
-      • Tailwind CSS, Material UI
-    </td>
-    <td>
-      • Python<br/>
-      • Node.js<br/>
-      • Java<br/>
-      • C, C++, C#
-    </td>
-    <td>
-      • Flutter (Dart)<br/>
-      • React Native<br/>
-      • Kotlin
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
 <table align="left">
   <tr>
     <td>
