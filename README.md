@@ -1,16 +1,16 @@
-<h1 align="left">Hi, I’m N. Barrack Okoth 👋</h1>
-<h3 align="left">Full Stack Developer | Frontend-Focused | Mobile & API Specialist</h3>
+<h1 align="left">Hi, I’m N. Barrack 👋</h1>
+<h3 align="left">Full Stack Developer | Mobile & API Specialist</h3>
 
 <p align="left">
-  I build modern, scalable web and mobile applications with a strong focus on performance, usability, and clean architecture.
+  I build modern, scalable, web and mobile applications with a strong focus on performance, usability and clean architecture.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- Full Stack Developer with strong frontend expertise  
-- Passionate about clean UI, scalable APIs, and maintainable code  
-- Experienced in web, mobile, and RESTful systems  
+- Full Stack Developer
+- Passionate about clean UI, scalable APIs and maintainable code  
+- Experienced in web, mobile and RESTful systems  
 - Comfortable working independently or in collaborative teams  
 
 ---
@@ -75,5 +75,5 @@
 ---
 
 <p align="center">
-  <i>“Code is not just about functionality — it’s about clarity, experience, and impact.”</i>
+  <i>“Code is not just about functionality, it’s about clarity, experience and impact.”</i>
 </p>
