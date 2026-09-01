@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I’m N. Barrack 👋</h1>
+<h1 align="left">Hi, I’m Barrack 👋</h1>
 <h3 align="left">Full Stack Developer | Mobile & API Specialist</h3>
 
 <p align="left">
